@@ -21,4 +21,4 @@
 # last steps:
 + register first user by auth web form from your site, it will be admin account
 + register second user by auth web form from your site, it will be guest accaunt
-(admin can manage default rooms and block accounts by link https://yoursitename.ru/ban/<USER_ID>, guest account is readonly)
++ (admin can manage default rooms and block accounts by link https://yoursitename.ru/ban/<USER_ID>, guest account is readonly)
