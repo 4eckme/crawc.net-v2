@@ -18,6 +18,7 @@
 # run as a daemon:
 + forever start -c "node -r esm" srv.js
 
-# last step:
+# last steps:
 + register first user by auth web form from your site, it will be admin account
-+ admin can manage default rooms and block accounts by link https://yoursitename.ru/ban/<USER_ID>
++ register second user by auth web form from your site, it will be guest accaunt
+(admin can manage default rooms and block accounts by link https://yoursitename.ru/ban/<USER_ID>, guest account is readonly)
